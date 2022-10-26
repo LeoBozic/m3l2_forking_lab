@@ -1,3 +1,3 @@
 Leo 
 Croatia
-Meta Front-end developer certification
+Meta Front-end developer certification.
